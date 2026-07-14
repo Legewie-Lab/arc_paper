@@ -1,0 +1,21 @@
+DESCRIPTION
+"mut_k2_148"
+
+PREDICTOR
+t	T	s	time	0	100000000
+
+INPUTS
+
+OBSERVABLES
+
+ERRORS
+
+CONDITIONS
+sd_inclusion	"0.044778"
+sd_skipping	"0.049781"
+sd_fullir	"0.033190"
+sd_firstir	"0.011792"
+sd_secondir	"0.005475"
+k2	"k2*f_mut148"
+k2a	"k2a*f_mut148"
+k2b	"k2b*f_mut148"
