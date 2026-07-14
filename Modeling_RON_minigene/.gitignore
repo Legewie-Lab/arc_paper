@@ -36,3 +36,4 @@ raw_data/
 *.csv
 *.tsv
 *.xlsx
+.Rhistory
