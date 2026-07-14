@@ -1,0 +1,21 @@
+DESCRIPTION
+"mut_k2_221"
+
+PREDICTOR
+t	T	s	time	0	100000000
+
+INPUTS
+
+OBSERVABLES
+
+ERRORS
+
+CONDITIONS
+sd_inclusion	"0.041903"
+sd_skipping	"0.080354"
+sd_fullir	"0.029101"
+sd_firstir	"0.012109"
+sd_secondir	"0.003532"
+k2	"k2*f_mut221"
+k2a	"k2a*f_mut221"
+k2b	"k2b*f_mut221"

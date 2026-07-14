@@ -1,0 +1,19 @@
+DESCRIPTION
+"mut_k1_95"
+
+PREDICTOR
+t	T	s	time	0	100000000
+
+INPUTS
+
+OBSERVABLES
+
+ERRORS
+
+CONDITIONS
+sd_inclusion	"0.044894"
+sd_skipping	"0.045293"
+sd_fullir	"0.035459"
+sd_firstir	"0.007423"
+sd_secondir	"0.010068"
+k1	"k1*i_mut95"

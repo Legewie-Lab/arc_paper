@@ -1,0 +1,21 @@
+DESCRIPTION
+"mut_k2_319"
+
+PREDICTOR
+t	T	s	time	0	100000000
+
+INPUTS
+
+OBSERVABLES
+
+ERRORS
+
+CONDITIONS
+sd_inclusion	"0.023289"
+sd_skipping	"0.005399"
+sd_fullir	"0.013745"
+sd_firstir	"0.007648"
+sd_secondir	"0.009668"
+k2	"k2*f_mut319"
+k2a	"k2a*f_mut319"
+k2b	"k2b*f_mut319"
