@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+._*
+
+# MATLAB autosave / backup
+*.asv
+*.m~
+*.autosave
+
+# MATLAB compiled / cache
+*.mex*
+*.slxc
+codegen/
+slprj/
+
+# MATLAB app / project temporary files
+*.mlappinstall
+*.prj
+.resources/
+.settings/
+
+# Temporary / logs
+*.log
+*.tmp
+
+# Large or generated outputs
+results/
+outputs/
+figures/
+plots/
+
+# Data
+data/
+raw_data/
+*.mat
+*.csv
+*.tsv
+*.xlsx
