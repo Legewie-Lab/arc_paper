@@ -1,0 +1,19 @@
+DESCRIPTION
+"mut_k3_79"
+
+PREDICTOR
+t	T	s	time	0	100000000
+
+INPUTS
+
+OBSERVABLES
+
+ERRORS
+
+CONDITIONS
+sd_inclusion	"0.043565"
+sd_skipping	"0.074481"
+sd_fullir	"0.014474"
+sd_firstir	"0.007711"
+sd_secondir	"0.002951"
+k3	"k3*j_mut79"

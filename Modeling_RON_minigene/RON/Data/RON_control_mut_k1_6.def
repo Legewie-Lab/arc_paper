@@ -1,0 +1,19 @@
+DESCRIPTION
+"mut_k1_6"
+
+PREDICTOR
+t	T	s	time	0	100000000
+
+INPUTS
+
+OBSERVABLES
+
+ERRORS
+
+CONDITIONS
+sd_inclusion	"0.044830"
+sd_skipping	"0.035654"
+sd_fullir	"0.036816"
+sd_firstir	"0.013273"
+sd_secondir	"0.014825"
+k1	"k1*i_mut6"

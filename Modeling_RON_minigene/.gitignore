@@ -37,3 +37,11 @@ raw_data/
 *.tsv
 *.xlsx
 .Rhistory
+
+# Include analysis input data shipped with this repository
+!RON/Data/
+!RON/Data/**
+!KD/Data/
+!KD/Data/**
+!error\ model/Data/
+!error\ model/Data/**
